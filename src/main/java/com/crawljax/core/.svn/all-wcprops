@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/saltlab/!svn/ver/2373/trunk/code/crawljax-dev/src/main/java/com/crawljax/core
+END
+Crawler.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/saltlab/!svn/ver/2375/trunk/code/crawljax-dev/src/main/java/com/crawljax/core/Crawler.java
+END
+TagAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/core/TagAttribute.java
+END
+CandidateCrawlAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/core/CandidateCrawlAction.java
+END
+CrawljaxEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/saltlab/!svn/ver/2373/trunk/code/crawljax-dev/src/main/java/com/crawljax/core/CrawljaxEstimator.java
+END
+ExtractorManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/core/ExtractorManager.java
+END
+CrawlQueueManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/core/CrawlQueueManager.java
+END
+InitialCrawler.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/saltlab/!svn/ver/2365/trunk/code/crawljax-dev/src/main/java/com/crawljax/core/InitialCrawler.java
+END
+CrawlSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/core/CrawlSession.java
+END
+CrawlQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/core/CrawlQueue.java
+END
+CrawlerExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/saltlab/!svn/ver/2137/trunk/code/crawljax-dev/src/main/java/com/crawljax/core/CrawlerExecutor.java
+END
+CrawljaxController.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/saltlab/!svn/ver/2373/trunk/code/crawljax-dev/src/main/java/com/crawljax/core/CrawljaxController.java
+END
+CandidateElementManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/core/CandidateElementManager.java
+END
+CandidateElementExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/core/CandidateElementExtractor.java
+END
+DiverseCrawlingManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/saltlab/!svn/ver/2116/trunk/code/crawljax-dev/src/main/java/com/crawljax/core/DiverseCrawlingManager.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/core/package-info.java
+END
+TagElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/core/TagElement.java
+END
+CandidateElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/core/CandidateElement.java
+END
+CrawljaxException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/core/CrawljaxException.java
+END

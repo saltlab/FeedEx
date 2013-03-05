@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/core/exception
+END
+BrowserConnectionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/core/exception/BrowserConnectionException.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/core/exception/package-info.java
+END
+CrawlPathToException.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/core/exception/CrawlPathToException.java
+END

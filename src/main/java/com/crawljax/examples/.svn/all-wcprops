@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/saltlab/!svn/ver/2373/trunk/code/crawljax-dev/src/main/java/com/crawljax/examples
+END
+CrawljaxSimpleExampleSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/saltlab/!svn/ver/2373/trunk/code/crawljax-dev/src/main/java/com/crawljax/examples/CrawljaxSimpleExampleSettings.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/examples/package-info.java
+END
+JarRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/examples/JarRunner.java
+END
+SiteSimpleExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/examples/SiteSimpleExample.java
+END
+GuidedCrawljaxExampleSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/saltlab/!svn/ver/2373/trunk/code/crawljax-dev/src/main/java/com/crawljax/examples/GuidedCrawljaxExampleSettings.java
+END
+CrawljaxAdvancedExampleSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/examples/CrawljaxAdvancedExampleSettings.java
+END

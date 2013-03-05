@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/saltlab/!svn/ver/1418/trunk/code/crawljax-dev/src/test/site
+END
+testInvariants.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/saltlab/!svn/ver/1418/trunk/code/crawljax-dev/src/test/site/testInvariants.html
+END
+testOracleComparators.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/saltlab/!svn/ver/1418/trunk/code/crawljax-dev/src/test/site/testOracleComparators.html
+END
+testCrawlconditions.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/saltlab/!svn/ver/1418/trunk/code/crawljax-dev/src/test/site/testCrawlconditions.html
+END
+testDepth.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/saltlab/!svn/ver/1418/trunk/code/crawljax-dev/src/test/site/testDepth.html
+END
+testCrawlElements.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/saltlab/!svn/ver/1418/trunk/code/crawljax-dev/src/test/site/testCrawlElements.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/saltlab/!svn/ver/1418/trunk/code/crawljax-dev/src/test/site/index.html
+END
+home.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/saltlab/!svn/ver/1418/trunk/code/crawljax-dev/src/test/site/home.html
+END
+testCrawlElementCondition.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/saltlab/!svn/ver/1418/trunk/code/crawljax-dev/src/test/site/testCrawlElementCondition.html
+END
+testWaitCondition.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/saltlab/!svn/ver/1418/trunk/code/crawljax-dev/src/test/site/testWaitCondition.html
+END

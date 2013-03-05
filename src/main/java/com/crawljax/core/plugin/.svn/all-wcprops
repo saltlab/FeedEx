@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/saltlab/!svn/ver/2362/trunk/code/crawljax-dev/src/main/java/com/crawljax/core/plugin
+END
+OnRevisitStatePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/core/plugin/OnRevisitStatePlugin.java
+END
+DomChangeNotifierPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/saltlab/!svn/ver/2134/trunk/code/crawljax-dev/src/main/java/com/crawljax/core/plugin/DomChangeNotifierPlugin.java
+END
+OnNewStatePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/core/plugin/OnNewStatePlugin.java
+END
+GuidedCrawlingPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/core/plugin/GuidedCrawlingPlugin.java
+END
+OnFireEventFailedPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/core/plugin/OnFireEventFailedPlugin.java
+END
+CrawljaxPluginsUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/saltlab/!svn/ver/2375/trunk/code/crawljax-dev/src/main/java/com/crawljax/core/plugin/CrawljaxPluginsUtil.java
+END
+OnUrlLoadPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/core/plugin/OnUrlLoadPlugin.java
+END
+DomMutationNotifierPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/saltlab/!svn/ver/2072/trunk/code/crawljax-dev/src/main/java/com/crawljax/core/plugin/DomMutationNotifierPlugin.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/core/plugin/package-info.java
+END
+OnBrowserCreatedPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/core/plugin/OnBrowserCreatedPlugin.java
+END
+ProxyServerPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/core/plugin/ProxyServerPlugin.java
+END
+PostCrawlingPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/core/plugin/PostCrawlingPlugin.java
+END
+OnInvariantViolationPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/core/plugin/OnInvariantViolationPlugin.java
+END
+PreCrawlingPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/core/plugin/PreCrawlingPlugin.java
+END
+PreStateCrawlingPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/core/plugin/PreStateCrawlingPlugin.java
+END
+GeneratesOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/core/plugin/GeneratesOutput.java
+END
+Plugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/saltlab/!svn/ver/2067/trunk/code/crawljax-dev/src/main/java/com/crawljax/core/plugin/Plugin.java
+END

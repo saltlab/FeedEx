@@ -1,0 +1,17 @@
+<projectDescription>
+  <name>crawljax</name>
+  <comment>Crawling Ajax applications through dynamic analysis and
+		reconstruction of the UI state changes. Crawljax is based on a
+		method which dynamically builds a `state-flow graph&apos; modeling
+		the various navigation paths and states within an Ajax
+		application.</comment>
+  <projects/>
+  <buildSpec>
+    <buildCommand>
+      <name>org.eclipse.jdt.core.javabuilder</name>
+    </buildCommand>
+  </buildSpec>
+  <natures>
+    <nature>org.eclipse.jdt.core.javanature</nature>
+  </natures>
+</projectDescription>

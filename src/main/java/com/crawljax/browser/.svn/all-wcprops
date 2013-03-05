@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/saltlab/!svn/ver/2361/trunk/code/crawljax-dev/src/main/java/com/crawljax/browser
+END
+WebDriverBackedEmbeddedBrowser.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/saltlab/!svn/ver/2361/trunk/code/crawljax-dev/src/main/java/com/crawljax/browser/WebDriverBackedEmbeddedBrowser.java
+END
+EmbeddedBrowserBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/browser/EmbeddedBrowserBuilder.java
+END
+WebDriverBrowserBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/browser/WebDriverBrowserBuilder.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/browser/package-info.java
+END
+EmbeddedBrowser.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/browser/EmbeddedBrowser.java
+END
+BrowserPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/saltlab/!svn/ver/2070/trunk/code/crawljax-dev/src/main/java/com/crawljax/browser/BrowserPool.java
+END

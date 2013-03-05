@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/oraclecomparator/comparators
+END
+SimpleComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/oraclecomparator/comparators/SimpleComparator.java
+END
+RegexComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/oraclecomparator/comparators/RegexComparator.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/oraclecomparator/comparators/package-info.java
+END
+DateComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/oraclecomparator/comparators/DateComparator.java
+END
+EditDistanceComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/oraclecomparator/comparators/EditDistanceComparator.java
+END
+StyleComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/oraclecomparator/comparators/StyleComparator.java
+END
+AttributeComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/oraclecomparator/comparators/AttributeComparator.java
+END
+PlainStructureComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/oraclecomparator/comparators/PlainStructureComparator.java
+END
+ScriptComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/oraclecomparator/comparators/ScriptComparator.java
+END
+XPathExpressionComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/saltlab/!svn/ver/1419/trunk/code/crawljax-dev/src/main/java/com/crawljax/oraclecomparator/comparators/XPathExpressionComparator.java
+END

@@ -1,0 +1,70 @@
+0    [main] INFO  com.crawljax.core.CrawljaxController  - Starting Crawljax...
+1    [main] INFO  com.crawljax.core.CrawljaxController  - Used plugins:
+6    [main] WARN  com.crawljax.core.plugin.CrawljaxPluginsUtil  - No plugins loaded because CrawljaxConfiguration is empty
+6    [main] INFO  com.crawljax.core.CrawljaxController  - Embedded browser implementation: firefox
+6    [main] INFO  com.crawljax.core.CrawljaxController  - Number of threads: 1
+6    [main] INFO  com.crawljax.core.CrawljaxController  - Crawl depth: 0
+6    [main] INFO  com.crawljax.core.CrawljaxController  - Crawljax initialized!
+10   [main] INFO  com.crawljax.core.CrawljaxController  - Start crawling with 10 crawl elements
+13   [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CrawlerExecutor  - Starting new Crawler: Thread 1 Crawler 1 (initial)
+8702 [Thread-3] INFO  com.crawljax.core.plugin.CrawljaxPluginsUtil  - Running PreCrawlingPlugins...
+8702 [Thread-3] INFO  com.crawljax.core.plugin.CrawljaxPluginsUtil  - Running OnBrowserCreatedPlugins...
+8704 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.Crawler  - Loading Page http://spci.st.ewi.tudelft.nl/demo/aowe/
+11226 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.plugin.CrawljaxPluginsUtil  - Running OnUrlLoadPlugins...
+11430 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.plugin.CrawljaxPluginsUtil  - Running OnNewStatePlugins...
+11461 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Looking in state: index for candidate elements with 
+11477 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - TAG: A
+11568 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found new candidate element: A: class=remotetop top href=#Home id=home title=Home xpath /HTML[1]/BODY[1]/DIV[1]/UL[1]/LI[1]/A[1] 
+11568 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found new candidate element: A: class=remotetop href=#Organizers id=organizers title=Organizers xpath /HTML[1]/BODY[1]/DIV[1]/UL[1]/LI[2]/A[1] 
+11568 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found new candidate element: A: class=remotetop href=#PC id=pc title=PC xpath /HTML[1]/BODY[1]/DIV[1]/UL[1]/LI[3]/A[1] 
+11568 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found new candidate element: A: class=remotetop href=#CFP id=cfp title=CFP xpath /HTML[1]/BODY[1]/DIV[1]/UL[1]/LI[4]/A[1] 
+11569 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found new candidate element: A: class=remotetop href=#Contact id=contact title=Contact xpath /HTML[1]/BODY[1]/DIV[1]/UL[1]/LI[5]/A[1] 
+11569 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found new candidate element: A: class=remoteleft href=#Topics id=topics title=Topics xpath /HTML[1]/BODY[1]/DIV[4]/DIV[1]/DIV[1]/CENTER[1]/UL[1]/LI[1]/A[1] 
+11569 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found new candidate element: A: class=remoteleft href=#Dates id=dates title=Dates xpath /HTML[1]/BODY[1]/DIV[4]/DIV[1]/DIV[1]/CENTER[1]/UL[1]/LI[2]/A[1] 
+11569 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found new candidate element: A: class=remoteleft href=#Submission id=submission title=Submission xpath /HTML[1]/BODY[1]/DIV[4]/DIV[1]/DIV[1]/CENTER[1]/UL[1]/LI[3]/A[1] 
+11569 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - TAG: BUTTON
+11570 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - TAG: INPUT: type="submit" 
+11570 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - TAG: INPUT: type="button" 
+11570 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - TAG: A
+11656 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - TAG: DIV
+11706 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found new candidate element: DIV: id=topPan xpath /HTML[1]/BODY[1]/DIV[1] 
+11707 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found new candidate element: DIV:  xpath /HTML[1]/BODY[1]/DIV[2] 
+11707 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found new candidate element: DIV:  xpath /HTML[1]/BODY[1]/DIV[3] 
+11707 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found new candidate element: DIV: id=bodyPan xpath /HTML[1]/BODY[1]/DIV[4] 
+11707 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found new candidate element: DIV: id=leftPan xpath /HTML[1]/BODY[1]/DIV[4]/DIV[1] 
+11707 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found new candidate element: DIV: id=leftmemberPan xpath /HTML[1]/BODY[1]/DIV[4]/DIV[1]/DIV[1] 
+11707 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found new candidate element: DIV: class=testing id=testdiv xpath /HTML[1]/BODY[1]/DIV[4]/DIV[1]/DIV[1]/CENTER[1]/UL[1]/LI[4]/DIV[1] 
+11707 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found new candidate element: DIV: id=div_not_clickable xpath /HTML[1]/BODY[1]/DIV[4]/DIV[1]/DIV[1]/CENTER[1]/UL[1]/LI[5]/DIV[1] 
+11707 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found new candidate element: DIV: class=testing id=testdivsame xpath /HTML[1]/BODY[1]/DIV[4]/DIV[1]/DIV[1]/CENTER[1]/UL[1]/LI[7]/DIV[1] 
+11707 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found new candidate element: DIV:  xpath /HTML[1]/BODY[1]/DIV[4]/DIV[1]/DIV[2] 
+11707 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found new candidate element: DIV: class=roundedcornr_box_677282 xpath /HTML[1]/BODY[1]/DIV[4]/DIV[1]/DIV[3] 
+11708 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found new candidate element: DIV: class=roundedcornr_top_677282 xpath /HTML[1]/BODY[1]/DIV[4]/DIV[1]/DIV[3]/DIV[1] 
+11708 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found new candidate element: DIV:  xpath /HTML[1]/BODY[1]/DIV[4]/DIV[1]/DIV[3]/DIV[1]/DIV[1] 
+11708 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found new candidate element: DIV: class=roundedcornr_content_677282 xpath /HTML[1]/BODY[1]/DIV[4]/DIV[1]/DIV[3]/DIV[2] 
+11708 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found new candidate element: DIV: class=roundedcornr_bottom_677282 xpath /HTML[1]/BODY[1]/DIV[4]/DIV[1]/DIV[3]/DIV[3] 
+11708 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found new candidate element: DIV:  xpath /HTML[1]/BODY[1]/DIV[4]/DIV[1]/DIV[3]/DIV[3]/DIV[1] 
+11708 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found new candidate element: DIV: id=rightPan xpath /HTML[1]/BODY[1]/DIV[4]/DIV[2] 
+11708 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found new candidate element: DIV: id=rightbodyPan xpath /HTML[1]/BODY[1]/DIV[4]/DIV[2]/DIV[1] 
+11708 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found new candidate element: DIV: class=remote-output id=content xpath /HTML[1]/BODY[1]/DIV[4]/DIV[2]/DIV[1]/DIV[1] 
+11708 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found new candidate element: DIV:  xpath /HTML[1]/BODY[1]/DIV[4]/DIV[2]/DIV[1]/DIV[1]/DIV[1] 
+11708 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found new candidate element: DIV:  xpath /HTML[1]/BODY[1]/DIV[4]/DIV[2]/DIV[1]/DIV[1]/DIV[2] 
+11708 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found new candidate element: DIV:  xpath /HTML[1]/BODY[1]/DIV[4]/DIV[2]/DIV[1]/DIV[1]/DIV[3] 
+11708 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found new candidate element: DIV: align=center xpath /HTML[1]/BODY[1]/DIV[4]/DIV[2]/DIV[1]/DIV[1]/DIV[4] 
+11709 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found new candidate element: DIV: id=footer xpath /HTML[1]/BODY[1]/DIV[5] 
+11709 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - TAG: SPAN
+11718 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found new candidate element: SPAN: class=testing id=testspan1 xpath /HTML[1]/BODY[1]/DIV[4]/DIV[1]/DIV[1]/CENTER[1]/UL[1]/LI[6]/SPAN[1] 
+11719 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found new candidate element: SPAN: class=testing id=testspan2 xpath /HTML[1]/BODY[1]/DIV[4]/DIV[1]/DIV[1]/CENTER[1]/UL[1]/LI[8]/SPAN[1] 
+11719 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found new candidate element: SPAN: class=testing id=non xpath /HTML[1]/BODY[1]/DIV[4]/DIV[1]/DIV[1]/CENTER[1]/UL[1]/LI[9]/SPAN[1] 
+11719 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - TAG: IMG
+11719 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - TAG: INPUT: type="submit" 
+11719 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - TAG: TD
+11720 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found 35 new candidate elements to analyze!
+11720 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.Crawler  - Starting preStateCrawlingPlugins...
+11720 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.plugin.CrawljaxPluginsUtil  - Running PreStateCrawlingPlugins...
+11785 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.Crawler  - Executing click on element: "Home" A: class="remotetop top" href="#Home" id="home" title="Home" click xpath /HTML[1]/BODY[1]/DIV[1]/UL[1]/LI[1]/A[1]; State: index
+12487 [Forwarding getWindowHandles on session 9eb0cc36-1ee9-8044-b764-9312d09130d2 to remote] INFO  org.apache.http.impl.client.DefaultHttpClient  - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+12487 [Forwarding getWindowHandles on session 9eb0cc36-1ee9-8044-b764-9312d09130d2 to remote] INFO  org.apache.http.impl.client.DefaultHttpClient  - Retrying request
+12489 [Forwarding getWindowHandles on session 9eb0cc36-1ee9-8044-b764-9312d09130d2 to remote] INFO  org.apache.http.impl.client.DefaultHttpClient  - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+12489 [Forwarding getWindowHandles on session 9eb0cc36-1ee9-8044-b764-9312d09130d2 to remote] INFO  org.apache.http.impl.client.DefaultHttpClient  - Retrying request
+12492 [Forwarding getWindowHandles on session 9eb0cc36-1ee9-8044-b764-9312d09130d2 to remote] INFO  org.apache.http.impl.client.DefaultHttpClient  - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+12492 [Forwarding getWindowHandles on session 9eb0cc36-1ee9-8044-b764-9312d09130d2 to remote] INFO  org.apache.http.impl.client.DefaultHttpClient  - Retrying request
