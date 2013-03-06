@@ -1,13 +1,14 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.crawljax</groupId>
-	<artifactId>crawljax</artifactId>
+	<groupId>com.FeedEx</groupId>
+	<artifactId>FeedEx</artifactId>
 	<packaging>jar</packaging>
-	<version>2.1-SNAPSHOT</version>
-	<name>Crawljax</name>
+	<version>1.0-SNAPSHOT</version>
+	<name>FeedEx</name>
 	<description>
-		Crawling Ajax applications through dynamic analysis and
+		Feedback-directed exploration of Ajax applications on top
+		of Crawljax tool which crawl Ajax applications through dynamic analysis and
 		reconstruction of the UI state changes. Crawljax is based on a
 		method which dynamically builds a `state-flow graph' modeling
 		the various navigation paths and states within an Ajax
@@ -17,6 +18,14 @@
 	<inceptionYear>2007</inceptionYear>
 
 	<developers>
+		<developer>
+			<id>aminmf</id>
+			<name>Amin Milani Fard</name>
+			<email>aminmf@ece.ubc.ca</email>
+			<url>http://ece.ubc.ca/~aminmf/</url>
+			<organization>UBC</organization>
+			<organizationUrl>http://ece.ubc.ca</organizationUrl>
+		</developer>
 		<developer>
 			<id>amesbah</id>
 			<name>Ali Mesbah</name>
@@ -51,15 +60,6 @@
 			<url>http://www.st.ewi.tudelft.nl/~arie/</url>
 			<organization>SWERL, TU Delft</organization>
 			<organizationUrl>http://swerl.tudelft.nl</organizationUrl>
-			<timezone>+1</timezone>
-		</developer>
-		<developer>
-			<id>aminmf</id>
-			<name>Amin Milani Fard</name>
-			<email>aminmf@ece.ubc.ca</email>
-			<url>http://ece.ubc.ca/~aminmf/</url>
-			<organization>UBC</organization>
-			<organizationUrl>http://ece.ubc.ca</organizationUrl>
 			<timezone>+1</timezone>
 		</developer>
 
