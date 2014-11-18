@@ -11,4 +11,4 @@ A. Milani Fard, A. Mesbah, ["Feedback-Directed Exploration of Web Applications t
 Usage
 -----------------
 
-Run it trough the Main class in JSNose/src/main/java/com/crawljax/examples/GuidedCrawljaxExampleSettings.java
+Run it trough the Main class in FeedEx/src/main/java/com/crawljax/examples/GuidedCrawljaxExampleSettings.java
